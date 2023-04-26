@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Smonica'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_519A5B4ABFCF4F96AA212B30F0C6989A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E5FEA5CE4AC4790AE0DF3ACBE1AFF63 }}
           package: .
